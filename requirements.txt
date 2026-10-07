@@ -1,0 +1,2 @@
+# 运行和测试仅使用 Python 3.9+ 标准库，没有第三方运行依赖。
+# 可直接 python3 -m code_review_agent，无需 pip install。
